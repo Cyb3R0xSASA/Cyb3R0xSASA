@@ -77,9 +77,9 @@
 
 ### Repositories
 
-[![Repo 1](https://img.shields.io/badge/-Repo%201-FF5733?style=for-the-badge)](https://github.com/Cyb3R0xSASA/Lion-Template)
+[![Repo 1](https://img.shields.io/badge/-Repo%201-FF5733?style=for-the-badge)](https://cyb3r0xsasa.github.io/Lion-Template/)
 [![Repo 2](https://img.shields.io/badge/-Repo%202-33FF57?style=for-the-badge)](https://github.com/Cyb3R0xSASA/mssql-azure-install)
-[![Repo 3](https://img.shields.io/badge/-Repo%203-3357FF?style=for-the-badge)](https://github.com/Cyb3R0xSASA/Inventory-Management-System)
+[![Repo 3](https://img.shields.io/badge/-Repo%203-3357FF?style=for-the-badge)](https://cyb3r0xsasa.github.io/Inventory-Management-System/)
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
