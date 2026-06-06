@@ -1,30 +1,42 @@
 <h1 align="center">Mohmed Mostafa - 0xSASA</h1>
 
 <p align="center">
-  Backend-focused full stack developer building secure APIs, automation systems, scraping workflows, dashboards, and Linux-ready product foundations.
+  I build backend-heavy web systems: secure APIs, automation and scraping pipelines, dashboards, document workflows, and Linux-ready product foundations.
 </p>
 
 <p align="center">
   <a href="https://oxsasa.site">Portfolio</a>
   ·
+  <a href="https://oxsasa.site/resume/mohmed-mostafa-resume.pdf">Resume</a>
+  ·
   <a href="https://github.com/Cyb3R0xSASA">GitHub</a>
   ·
   <a href="https://www.linkedin.com/in/mohmedmostafayoussef/">LinkedIn</a>
-  ·
-  <a href="https://x.com/s_a_s__a_">X</a>
   ·
   <a href="https://wa.me/201557154846">WhatsApp</a>
 </p>
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Cyb3R0xSASA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyb3R0xSASA&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
 ## What I Build
 
-- Backend APIs with authentication, validation, role checks, logging, documentation, and clean service boundaries.
-- Automation and scraping systems using Playwright, Selenium, aiohttp, BeautifulSoup, Cheerio, scheduled jobs, persistence, and alerts.
-- Admin dashboards and portals connected to real APIs with filtering, forms, permissions, and Arabic/RTL-ready workflows.
-- Linux-ready product foundations using Docker, Nginx, PM2, Redis, environment setup, and deployment runbooks.
-- Security-minded backend work focused on JWT/cookies, access control, ownership checks, rate limits, and defensive API design.
+- Secure backend APIs with authentication, validation, service boundaries, logging, and OpenAPI documentation.
+- Automation and scraping systems with Playwright, Selenium, async HTTP flows, persistence, retries, and alerts.
+- Admin dashboards and operational tools with React, TypeScript, RTL support, and real API integration.
+- Linux-ready delivery with Docker, Nginx, PM2, Redis, environment setup, and deployment runbooks.
+- Security-minded backend work focused on JWT, cookies, access control, ownership checks, and defensive API design.
 
 ## Strongest Areas
 
@@ -48,51 +60,15 @@ Security       PortSwigger BAC practice, auth flaws, access control, API hardeni
 | Python backend | ZATCA Bridge with FastAPI, SQLAlchemy, Alembic, JWT, granular permissions, and Docker |
 | Documents and reports | Taqrery PDF template workflows with Arabic typography, React PDF, and print/export flows |
 
-## Public Repo Cleanup Focus
+## Public Profile Strategy
 
-Some of my strongest work is private, so the public profile should point clearly to polished signals:
+My strongest work is private, so the public profile should point clearly to the work that best represents me:
 
 - Portfolio and case studies
 - Backend auth/API examples
 - Automation and scraping tools
 - Linux/server utilities
-- Document/PDF tooling
-
-## Current Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux)
-![Playwright](https://img.shields.io/badge/Playwright-0f172a?style=for-the-badge&logo=playwright)
-
-## Contact
-
-- Portfolio: <https://oxsasa.site>
-- Email: `mohmedmostafayoussef@gmail.com`
-- WhatsApp: `+201557154846`
-- LinkedIn: <https://www.linkedin.com/in/mohmedmostafayoussef/>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyb3R0xSASA&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Cyb3R0xSASA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
----
+- Document and PDF tooling
 
 ## Profile Focus
 
@@ -104,4 +80,11 @@ Some of my strongest work is private, so the public profile should point clearly
 | Delivery stack | Linux, Docker, Nginx, PM2, environment setup, deployment notes |
 | Security practice | Broken access control labs, auth hardening, permission checks, API review |
 
-Most of my strongest work is in private product repositories, so this profile is structured around case-study signals and public proof points rather than raw public repository statistics.
+## Contact
+
+- Portfolio: <https://oxsasa.site>
+- Resume: <https://oxsasa.site/resume/mohmed-mostafa-resume.pdf>
+- Email: `mohmedmostafayoussef@gmail.com`
+- WhatsApp: `+201557154846`
+- LinkedIn: <https://www.linkedin.com/in/mohmedmostafayoussef/>
+
