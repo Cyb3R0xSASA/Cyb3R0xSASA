@@ -1,93 +1,107 @@
-<h1 align="center">Mohmed Mostafa (0x4D4!). A Full-stack developer 🇪🇬🇵🇸.</h1>
+<h1 align="center">Mohmed Mostafa - 0xSASA</h1>
 
-<center  align="center"><img height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b761121tzhrdwtvla4o0shkiyq0piy92wmpzb407u2nby&ep=v1_gifs_search&rid=giphy.gif&ct=g" /></center>
+<p align="center">
+  Backend-focused full stack developer building secure APIs, automation systems, scraping workflows, dashboards, and Linux-ready product foundations.
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<p align="center">
+  <a href="https://oxsasa.site">Portfolio</a>
+  ·
+  <a href="https://github.com/Cyb3R0xSASA">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/mohmedmostafayoussef/">LinkedIn</a>
+  ·
+  <a href="https://x.com/s_a_s__a_">X</a>
+  ·
+  <a href="https://wa.me/201557154846">WhatsApp</a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyb3R0xSASA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Cyb3R0xSASA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyb3R0xSASA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+## What I Build
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+- Backend APIs with authentication, validation, role checks, logging, documentation, and clean service boundaries.
+- Automation and scraping systems using Playwright, Selenium, aiohttp, BeautifulSoup, Cheerio, scheduled jobs, persistence, and alerts.
+- Admin dashboards and portals connected to real APIs with filtering, forms, permissions, and Arabic/RTL-ready workflows.
+- Linux-ready product foundations using Docker, Nginx, PM2, Redis, environment setup, and deployment runbooks.
+- Security-minded backend work focused on JWT/cookies, access control, ownership checks, rate limits, and defensive API design.
 
+## Strongest Areas
 
+```txt
+Backend        Express, FastAPI, REST APIs, JWT, OpenAPI, service boundaries
+Automation     Playwright, Selenium, aiohttp, scraping, scheduling, Telegram alerts
+Data           MongoDB, Mongoose, SQLAlchemy, SQLite, Redis, Cloudinary
+Frontend       React, TypeScript, Vite, Tailwind, Zustand, TanStack Router
+Delivery       Linux, Docker, Nginx, PM2, server debugging, deployment docs
+Security       PortSwigger BAC practice, auth flaws, access control, API hardening
+```
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/solidjs/solidjs-original.svg" height="30" alt="solidjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bootstrap/bootstrap-original.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="mssql server logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" height="30" alt="playwright logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kalilinux/kalilinux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/npm/npm-original.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/yarn/yarn-original.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
+## Selected Work Signals
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohmedmostafayoussef/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/s_a_s__a_/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/s_a_s__a_">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/201557154846?text=Hello%20I%20would%20like%20to%20contact%20you">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/DM_HB">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+| Area | Signal |
+| --- | --- |
+| E-commerce backend | Qutof API with auth, products, orders, media, bilingual API behavior, Swagger, rate limits, and logging |
+| Education operations | Edu-Card dashboard/API workflows for students, groups, attendance, subscriptions, notes, and admin controls |
+| Automation and scraping | Browser automation, async scraping, retry handling, SQLite job state, scheduled checks, and bot notifications |
+| Backend platform work | Calendar Server with JWT, Redis rate limits, Cloudinary uploads, OAuth, Socket.IO, cron jobs, email, and Swagger |
+| Python backend | ZATCA Bridge with FastAPI, SQLAlchemy, Alembic, JWT, granular permissions, and Docker |
+| Documents and reports | Taqrery PDF template workflows with Arabic typography, React PDF, and print/export flows |
 
-<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+## Public Repo Cleanup Focus
 
+Some of my strongest work is private, so the public profile should point clearly to polished signals:
+
+- Portfolio and case studies
+- Backend auth/API examples
+- Automation and scraping tools
+- Linux/server utilities
+- Document/PDF tooling
+
+## Current Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux)
+![Playwright](https://img.shields.io/badge/Playwright-0f172a?style=for-the-badge&logo=playwright)
+
+## Contact
+
+- Portfolio: <https://oxsasa.site>
+- Email: `mohmedmostafayoussef@gmail.com`
+- WhatsApp: `+201557154846`
+- LinkedIn: <https://www.linkedin.com/in/mohmedmostafayoussef/>
+
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyb3R0xSASA&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Cyb3R0xSASA/count.svg?"  />
+  <img src="https://streak-stats.demolab.com?user=Cyb3R0xSASA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+---
+
+## Profile Focus
+
+| Focus | Current signal |
+| --- | --- |
+| Primary direction | Backend-focused full stack development |
+| Strongest backend stack | Node.js, Express, FastAPI, MongoDB, Redis, JWT, OpenAPI |
+| Automation stack | Python, Playwright, Selenium, aiohttp, BeautifulSoup, Cheerio |
+| Delivery stack | Linux, Docker, Nginx, PM2, environment setup, deployment notes |
+| Security practice | Broken access control labs, auth hardening, permission checks, API review |
+
+Most of my strongest work is in private product repositories, so this profile is structured around case-study signals and public proof points rather than raw public repository statistics.
