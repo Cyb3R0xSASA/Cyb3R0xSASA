@@ -64,7 +64,6 @@ These are products and team projects I have worked on. Some codebases are privat
 | --- | --- | --- |
 | 🎓 **Tahdir Plus / YNAFS** | Teacher-support platform, browser-extension features, curriculum tools, automated preparation, reports, parent communication, and service integrations | [Visit YNAFS](https://ynafs.com/) |
 | 📄 **Taqrery** | Arabic educational PDFs, term roadmaps, semester learning plans, calendars, print/export flows, branding, mobile compatibility, and deployment | [Open Taqrery](https://taqrery.ynafs.com/) |
-| 🧩 **YNAFS Activities** | Document-generation services for worksheets, lesson plans, summaries, educational cards, answers, and protected integrations | [Open Activities](https://activities.ynafs.com/) |
 | 🪪 **EduCard** | Student and group operations, attendance, subscriptions, notes, dashboards, API workflows, authentication, and deployment | [Open EduCard](https://educrds.com/) |
 | 🚀 **ShiftCore Mission Control** | Technical leadership, Scrum documentation, SRS and task design, Express services, API integration, PostgreSQL, Docker, Nginx, and frontend collaboration | [Project](https://shift-core.com/) · [Docs](https://platform.shiftcore.workers.dev/docs/mission-control) |
 | 🍯 **Qutof API** | TypeScript/Express e-commerce API with MongoDB, JWT, Joi, Cloudinary, Arabic/English responses, Swagger, rate limits, and logging | [Source Code](https://github.com/Cyb3R0xSASA/qutof-server) |
