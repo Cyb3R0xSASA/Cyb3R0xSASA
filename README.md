@@ -1,90 +1,127 @@
-<h1 align="center">Mohmed Mostafa - 0xSASA</h1>
+<h1 align="center">Mohamed Mostafa Youssef — 0xSASA</h1>
+
+<h3 align="center">Backend-Focused Software Engineer · Arabic EdTech · APIs · PDF Automation</h3>
 
 <p align="center">
-  I build backend-heavy web systems: secure APIs, automation and scraping pipelines, dashboards, document workflows, and Linux-ready product foundations.
+  I build secure backend services, Arabic-first educational products, document-generation systems, and the infrastructure needed to run them reliably.
 </p>
 
 <p align="center">
-  <a href="https://oxsasa.site">Portfolio</a>
-  ·
-  <a href="https://oxsasa.site/resume/mohmed-mostafa-resume.pdf">Resume</a>
-  ·
-  <a href="https://github.com/Cyb3R0xSASA">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/mohmedmostafayoussef/">LinkedIn</a>
-  ·
-  <a href="https://wa.me/201557154846">WhatsApp</a>
+  <a href="https://oxsasa.site"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://oxsasa.site/resume/mohmed-mostafa-resume.pdf"><img src="https://img.shields.io/badge/Resume-View-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/mohmedmostafayoussef/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
+## About Me
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Cyb3R0xSASA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+I am a backend-focused software engineer specializing in **Node.js and TypeScript**, with practical full-stack, database, deployment, and technical-leadership experience.
 
----
+My strongest work sits at the intersection of:
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyb3R0xSASA&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+- Secure REST APIs, authentication, validation, logging, and OpenAPI documentation
+- Arabic EdTech products for teachers, students, parents, and school operations
+- Arabic PDF generation, curriculum reports, printing, exporting, and document automation
+- MongoDB, PostgreSQL, Redis, data migrations, and complex education data
+- React and SolidJS interfaces integrated with real backend services
+- Docker, Nginx, Linux, CI workflows, and production troubleshooting
+- Product documentation, Git standards, sprint planning, and technical coordination
 
----
+I care about understanding the complete system—not only making an endpoint or screen work. I think about maintainability, security, mobile behavior, deployment, user experience, and the business problem behind the feature.
+
+## Tech Stack
+
+### Backend and Data
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,express,nestjs,py,fastapi,mongodb,postgres,redis,prisma&perline=10" alt="Backend and database technologies" />
+  </a>
+</p>
+
+### Frontend and Product Delivery
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js,docker,nginx,linux,git,githubactions&perline=11" alt="Frontend and delivery technologies" />
+  </a>
+</p>
+
+```text
+Backend      Node.js, TypeScript, Express, NestJS, FastAPI, REST, JWT, OpenAPI
+Data         MongoDB, PostgreSQL, Redis, Prisma, Mongoose, SQLAlchemy
+Frontend     React, SolidJS, Vite, Tailwind CSS, Axios, responsive RTL interfaces
+Documents    React PDF, Arabic typography, printing, image export, batch generation
+Delivery     Linux, Docker, Docker Compose, Nginx, PM2, CI/CD, CloudPanel
+Automation   Playwright, Selenium, async HTTP, scraping, scheduled jobs, Telegram
+Security     Authentication, authorization, cookies, access control, API hardening
+```
+
+## Selected Product Work
+
+These are products and team projects I have worked on. Some codebases are private, so the links point to their public products or documentation.
+
+| Product | My work and focus | Link |
+| --- | --- | --- |
+| 🎓 **Tahdir Plus / YNAFS** | Teacher-support platform, browser-extension features, curriculum tools, automated preparation, reports, parent communication, and service integrations | [Visit YNAFS](https://ynafs.com/) |
+| 📄 **Taqrery** | Arabic educational PDFs, term roadmaps, semester learning plans, calendars, print/export flows, branding, mobile compatibility, and deployment | [Open Taqrery](https://taqrery.ynafs.com/) |
+| 🧩 **YNAFS Activities** | Document-generation services for worksheets, lesson plans, summaries, educational cards, answers, and protected integrations | [Open Activities](https://activities.ynafs.com/) |
+| 🪪 **EduCard** | Student and group operations, attendance, subscriptions, notes, dashboards, API workflows, authentication, and deployment | [Open EduCard](https://educrds.com/) |
+| 🚀 **ShiftCore Mission Control** | Technical leadership, Scrum documentation, SRS and task design, Express services, API integration, PostgreSQL, Docker, Nginx, and frontend collaboration | [Project](https://shift-core.com/) · [Docs](https://platform.shiftcore.workers.dev/docs/mission-control) |
+| 🍯 **Qutof API** | TypeScript/Express e-commerce API with MongoDB, JWT, Joi, Cloudinary, Arabic/English responses, Swagger, rate limits, and logging | [Source Code](https://github.com/Cyb3R0xSASA/qutof-server) |
+| 🌐 **0xSASA Portfolio** | Project case studies, engineering services, certificates, and my backend-focused professional profile | [Visit Portfolio](https://oxsasa.site/) |
 
 ## What I Build
 
-- Secure backend APIs with authentication, validation, service boundaries, logging, and OpenAPI documentation.
-- Automation and scraping systems with Playwright, Selenium, async HTTP flows, persistence, retries, and alerts.
-- Admin dashboards and operational tools with React, TypeScript, RTL support, and real API integration.
-- Linux-ready delivery with Docker, Nginx, PM2, Redis, environment setup, and deployment runbooks.
-- Security-minded backend work focused on JWT, cookies, access control, ownership checks, and defensive API design.
+- **Backend systems:** secure APIs, authentication, authorization, service boundaries, logging, validation, and documentation.
+- **Arabic EdTech:** teacher workflows, curriculum distribution, student activities, parent communication, and school dashboards.
+- **Document automation:** Arabic PDF templates, reports, worksheets, batch generation, print flows, image exports, and mobile downloads.
+- **Data automation:** scraping, PDF processing, lesson allocation, migration scripts, irregular-data reporting, retries, and scheduled jobs.
+- **Operational foundations:** Docker environments, Nginx routing, database startup and migrations, health checks, CI, and deployment runbooks.
 
-## Strongest Areas
+## Engineering Approach
 
-```txt
-Backend        Express, FastAPI, REST APIs, JWT, OpenAPI, service boundaries
-Automation     Playwright, Selenium, aiohttp, scraping, scheduling, Telegram alerts
-Data           MongoDB, Mongoose, SQLAlchemy, SQLite, Redis, Cloudinary
-Frontend       React, TypeScript, Vite, Tailwind, Zustand, TanStack Router
-Delivery       Linux, Docker, Nginx, PM2, server debugging, deployment docs
-Security       PortSwigger BAC practice, auth flaws, access control, API hardening
-```
+- Review the existing architecture and real data before changing behavior.
+- Start with a clear API contract and measurable acceptance criteria.
+- Prefer the simplest design that satisfies current requirements.
+- Treat security, correctness, maintainability, and Arabic UX as required quality.
+- Deploy and test early, then improve using real evidence.
+- Keep Git history professional with focused branches and conventional commits.
 
-## Selected Work Signals
+## Current Direction
 
-| Area | Signal |
-| --- | --- |
-| E-commerce backend | Qutof API with auth, products, orders, media, bilingual API behavior, Swagger, rate limits, and logging |
-| Education operations | Edu-Card dashboard/API workflows for students, groups, attendance, subscriptions, notes, and admin controls |
-| Automation and scraping | Browser automation, async scraping, retry handling, SQLite job state, scheduled checks, and bot notifications |
-| Backend platform work | Calendar Server with JWT, Redis rate limits, Cloudinary uploads, OAuth, Socket.IO, cron jobs, email, and Swagger |
-| Python backend | ZATCA Bridge with FastAPI, SQLAlchemy, Alembic, JWT, granular permissions, and Docker |
-| Documents and reports | Taqrery PDF template workflows with Arabic typography, React PDF, and print/export flows |
+I am deepening my skills in:
 
-## Public Profile Strategy
+- Advanced TypeScript and NestJS architecture
+- PostgreSQL, SQL performance, transactions, and data integrity
+- Automated unit, integration, API, and database testing
+- Redis, queues, caching, and background jobs
+- Observability, deployment safety, and application security
+- AI-enabled Arabic products using LLM APIs, RAG, evaluation, and cost controls
 
-My strongest work is private, so the public profile should point clearly to the work that best represents me:
+My long-term direction is:
 
-- Portfolio and case studies
-- Backend auth/API examples
-- Automation and scraping tools
-- Linux/server utilities
-- Document and PDF tooling
+> **Backend Engineer → Senior Backend Engineer → Product-Oriented Software Engineer → Technical Lead or Technical Founder**
 
-## Profile Focus
+## GitHub Activity
 
-| Focus | Current signal |
-| --- | --- |
-| Primary direction | Backend-focused full stack development |
-| Strongest backend stack | Node.js, Express, FastAPI, MongoDB, Redis, JWT, OpenAPI |
-| Automation stack | Python, Playwright, Selenium, aiohttp, BeautifulSoup, Cheerio |
-| Delivery stack | Linux, Docker, Nginx, PM2, environment setup, deployment notes |
-| Security practice | Broken access control labs, auth hardening, permission checks, API review |
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Cyb3R0xSASA&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10" height="155" alt="GitHub contribution streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyb3R0xSASA&radius=16&theme=react&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+</div>
 
 ## Contact
 
-- Portfolio: <https://oxsasa.site>
-- Resume: <https://oxsasa.site/resume/mohmed-mostafa-resume.pdf>
-- Email: `mohmedmostafayoussef@gmail.com`
-- WhatsApp: `+201557154846`
-- LinkedIn: <https://www.linkedin.com/in/mohmedmostafayoussef/>
+<p align="center">
+  <a href="mailto:mohmedmostafayoussef@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohmedmostafayoussef/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed_Mostafa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/201557154846"><img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
 
+<p align="center">
+  <strong>Open to backend, full-stack, Arabic EdTech, automation, and API integration opportunities.</strong>
+</p>
